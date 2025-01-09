@@ -34,6 +34,6 @@ I’ve experienced the full spectrum of Linux—from the early days of strugglin
 ## ☕ Support Me
 If you enjoy my work, please consider supporting me with a coffee! It would mean a lot and help fuel my passion for creating and sharing. 🙏
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](mailto:attila4321@gmail.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/clash2un?country.x=HU&locale.x=hu_HU)
 
 Thank you for your support! 💖
