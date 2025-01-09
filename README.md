@@ -28,3 +28,12 @@ I’ve experienced the full spectrum of Linux—from the early days of strugglin
 
 ## 🤝 Connect with Me
 - Feel free to explore my repositories and drop a message if you'd like to collaborate or chat! 😊
+
+---
+
+## ☕ Support Me
+If you enjoy my work, please consider supporting me with a coffee! It would mean a lot and help fuel my passion for creating and sharing. 🙏
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](mailto:attila4321@gmail.com)
+
+Thank you for your support! 💖
