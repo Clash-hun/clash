@@ -18,10 +18,7 @@ Hi there! I'm a passionate **Linux enthusiast** and an **IT professional** 💻.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=attila&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=attila&layout=compact&theme=tokyonight)
+![Pacman Maze](https://usagif.com/wp-content/uploads/2022/fzk5d/10-full-maze-pacman-letsplay.gif)
 
 ## ✨ Fun Fact
 I’ve experienced the full spectrum of Linux—from the early days of struggling with UHU Linux to now confidently navigating Arch Linux. 🚀
