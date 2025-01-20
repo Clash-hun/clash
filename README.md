@@ -3,6 +3,8 @@
 ## 🐧 About Me
 Hi there! I'm a passionate **Linux enthusiast** and an **IT professional** 💻. My journey with Linux started back in 2003-2004 with SUSE Linux 9.3, and after years of exploring various distributions, I'm now a proud **Arch Linux user** 💙.
 
+![Arch Linux Logo](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png) 
+
 ## 🌟 My Interests
 - **Programming:** Exploring **JavaScript** and **Python** 🐍.
 - **Projects:** Writing **Bash scripts** and tinkering with system customizations.
